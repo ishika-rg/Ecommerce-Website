@@ -22,6 +22,13 @@ Users are able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+## Links
+<ul>
+  <li>📌 [Repository Link](https://github.com/ishika-rg/Ecommerce-website)</li>
+  <li>📌 [Live Link](https://ishika-rg.github.io/Ecommerce-website/) </li>
+</ul>
+    
+
 ## Output Images 
 
 👉 Desktop Design
@@ -29,15 +36,15 @@ Users are able to:
 <table>
 <tr>
 
-<td><img src="./outputImages/desktop1.jpg"></td>
-<td><img src="./outputImages/desktop2.jpg"></td>
+<td><img src="./OutputImages/desktop1.jpg"></td>
+<td><img src="./OutputImages/desktop2.jpg"></td>
 
 </tr>
 
 <tr>
 
-<td><img src="./outputImages/desktop3.jpg"></td>
-<td><img src="./outputImages/desktop4.jpg"></td>
+<td><img src="./OutputImages/desktop3.jpg"></td>
+<td><img src="./OutputImages/desktop4.jpg"></td>
 </tr>
 
 </table>
@@ -47,16 +54,16 @@ Users are able to:
 
 <table>
 <tr>
-<td><img src ="./outputImages/mobile1.jpg">
+<td><img src ="./OutputImages/mobile1.jpg">
 </td>
-<td><img src ="./outputImages/mobile4.jpg">
+<td><img src ="./OutputImages/mobile4.jpg">
 </td>
 
 </tr>
 <tr>
-<td><img src ="./outputImages/mobile2.jpg">
+<td><img src ="./OutputImages/mobile2.jpg">
 </td>
-<td><img src ="./outputImages/mobile3.jpg">
+<td><img src ="./OutputImages/mobile3.jpg">
 </td>
 
 </tr>
