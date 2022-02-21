@@ -23,10 +23,9 @@ Users are able to:
 - See hover states for all interactive elements on the page
 
 ## Links
-<ul>
-  <li>📌 [Repository Link](https://github.com/ishika-rg/Ecommerce-website)</li>
-  <li>📌 [Live Link](https://ishika-rg.github.io/Ecommerce-website/) </li>
-</ul>
+ 📌 [Repository Link](https://github.com/ishika-rg/Ecommerce-website)<br>
+ 📌 [Live Link](https://ishika-rg.github.io/Ecommerce-website/)
+
     
 
 ## Output Images 
